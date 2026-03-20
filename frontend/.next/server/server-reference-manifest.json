@@ -1,0 +1,90 @@
+{
+  "node": {
+    "5f9a99744ec23c55b2e7d52e072c8c4b9beef649": {
+      "workers": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "d985bd70873aa0a1c46d8638ed26745a142ce9f4": {
+      "workers": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "13024f9fd4b01eb648bcf07171b6069dfbc5eb51": {
+      "workers": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "3d2c6b081ecfbf50274f73e730557dde1cbce987": {
+      "workers": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "9b142adab24954d6e4675a25c11fbf223489fbc0": {
+      "workers": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "fe5b58f05c96e58bc0ea73867a2a8558004c77bb": {
+      "workers": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!",
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fserver%2Fkeyless-custom-headers.js%22%2C%5B%22formatMetadataHeaders%22%2C%22collectKeylessMetadata%22%5D%5D%2C%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%22detectKeylessEnvDriftAction%22%2C%22syncKeylessConfigAction%22%2C%22deleteKeylessAction%22%2C%22createOrReadKeylessAction%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "rsc",
+        "app/page": "rsc",
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "9efe468d62574fc50dfc6f67dd24d6ccff4626bd": {
+      "workers": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/dashboard/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fworkspaces%2FPaperMind%2Ffrontend%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(auth)/sign-in/[[...sign-in]]/page": "action-browser",
+        "app/page": "action-browser",
+        "app/dashboard/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "YTJLV/crNuexWnfEX58CDnIR1XcYrrsRNh4NFzhngwU="
+}
