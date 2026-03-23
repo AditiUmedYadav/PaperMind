@@ -10,5 +10,6 @@ class Settings:
     SUPABASE_KEY: str          = os.getenv("SUPABASE_KEY", "")
     CLERK_SECRET_KEY: str      = os.getenv("CLERK_SECRET_KEY", "")
     FRONTEND_URL: str          = os.getenv("FRONTEND_URL", "http://localhost:3000")
+    CODESPACE_NAME: str        = os.getenv("CODESPACE_NAME", "")
 
 settings = Settings()
